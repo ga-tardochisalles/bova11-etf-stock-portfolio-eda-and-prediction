@@ -112,3 +112,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Keys
+alpha_vantage_key.txt
