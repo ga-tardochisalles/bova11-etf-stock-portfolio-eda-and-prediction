@@ -150,14 +150,6 @@ yf_data.sample(3)
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -227,14 +219,6 @@ av_total_data.sample(3)
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
@@ -379,14 +363,6 @@ plt.close()
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -472,14 +448,6 @@ plt.close()
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -552,14 +520,6 @@ plt.close()
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
@@ -740,14 +700,6 @@ display(this_labeled_df.head(3))
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -870,14 +822,6 @@ this_labeled_df.head(3)
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
@@ -1005,14 +949,6 @@ x_train, x_test, y_train, y_test = train_test_split(this_labeled_df.drop('output
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
