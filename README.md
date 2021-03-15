@@ -3,7 +3,7 @@ Author: Gabriel Tardochi Salles
 Analysis period: May/20 -> Oct/20
 ### Questions:
 - How are different sectors represented on BOVA11 ?
-- How did the sectors evolve during this period of time ?
+- How did the sectors price during this period of time ?
 - What was the behavior of stocks within the same sector ? 
 
 
