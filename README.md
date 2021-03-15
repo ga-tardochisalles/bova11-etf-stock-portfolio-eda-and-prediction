@@ -1,6 +1,6 @@
 ## Analysing BOVA11 ETF Stock Portfolio and Predicting Daily Changes(May/20 -> Oct/20)
-#### Author: Gabriel Tardochi Salles
-## Questions:
+### Author: Gabriel Tardochi Salles
+### Questions:
 - How are different sectors represented on BOVA11 ?
 - How did the sectors evolve during this period of time ?
 - What was the behavior of stocks within the same sector ? 
@@ -38,14 +38,6 @@ bova_stocks.sample(3)
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
     }
 </style>
 <table border="1" class="dataframe">
