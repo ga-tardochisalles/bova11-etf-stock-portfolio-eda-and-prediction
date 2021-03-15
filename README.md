@@ -1,5 +1,5 @@
 ## Analysing BOVA11 ETF Stock Portfolio and Predicting Daily Changes
-Author: Gabriel Tardochi Salles
+Author: Gabriel Tardochi Salles  
 Analysis period: May/20 -> Oct/20
 ### Questions:
 - How are different sectors represented on BOVA11 ?
